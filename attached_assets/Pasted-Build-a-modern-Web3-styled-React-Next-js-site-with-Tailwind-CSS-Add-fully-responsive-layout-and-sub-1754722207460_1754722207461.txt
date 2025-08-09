@@ -1,0 +1,132 @@
+Build a modern Web3-styled React/Next.js site with Tailwind CSS. Add fully responsive layout and subtle animations.
+
+Brand
+Business name: Cloudrage Technology
+
+Tagline: Smart Living & Home Automation
+
+Colour palette (exact use):
+
+Navy Blue – Trust, reliability
+
+Cyan – Precision, clarity
+
+Orange – Energy, innovation
+
+Sage Green – Eco-friendly, grounding
+
+White – Neutral background
+
+Logo description/style:
+
+Wordmark: “CLOUDRAGE TECHNOLOGY” in Copperplate Gothic, Navy Blue.
+
+Pictorial: Smart home within a smartphone with automation icons.
+
+Combination: Pictorial above wordmark.
+
+Target audience: Middle- to upper-class homeowners (30–60), landlords, and small business owners in Canada.
+
+Brand tone/voice: Confident, professional, approachable, tech-savvy, and customer-first.
+
+Global UI
+Sticky navigation bar with: Home, About, Services, Blog, Contact.
+
+Footer with contact info, social links, testimonials, and copyright.
+
+Trust indicators: Testimonials, years of experience, security & energy-saving claims, and professional certifications.
+
+Homepage
+Headline: “Simplifying Smart Living”
+
+Sub-headline: “Integrated home automation that’s secure, efficient, and effortless.”
+
+Primary CTA: “Book Your Consultation”
+
+Secondary CTA: “Explore Our Services”
+
+Highlight features:
+
+Energy-efficient smart systems
+
+Security and peace of mind
+
+Professional installation and training
+
+About
+Populate with:
+
+Cloudrage Technology specializes in designing and installing integrated smart home systems across Ontario. Founded in 2023 by certified Home Automation Consultant Okikiola Akanbi, the company is built on a vision to simplify and enhance modern living through technology. From smart lighting to advanced security, we provide solutions that are functional, reliable, and tailored to your lifestyle.
+
+Include a short Meet the Founder section based on A2 bio.
+
+Services
+From A2 & Proposal:
+
+Home Automation Design & Consultation
+
+Virtual or in-person consultation.
+
+Personalized automation blueprint with suggested devices.
+
+Smart Home Installation & Setup
+
+Professional installation of lighting, thermostats, locks, cameras.
+
+Mobile app and voice control integration with customer training.
+
+Smart Security System Integration
+
+Motion sensors, window sensors, doorbell cameras, and locks.
+
+Real-time remote monitoring via smartphones.
+
+Each service section should have a “Book a Consult” CTA.
+
+Blog
+Create a Blog page with the following starter post:
+
+Title: Why Smart Homes Are the Future of Comfortable Living
+Author: Cloudrage Technology
+Date: Use current date at build time.
+
+Body:
+
+The way we live is changing faster than ever. Smart home technology is no longer a luxury — it’s becoming an essential part of comfortable, efficient, and secure living. From controlling your lights with your phone to automating your thermostat based on your routine, the possibilities are endless.
+
+One of the biggest advantages of a smart home is convenience. With the right setup, all your devices — from lights and locks to cameras and thermostats — can be controlled from a single app or even with your voice. This means less hassle, more control, and more time to focus on what really matters.
+
+Smart homes also bring significant energy savings. Automated lighting, climate control, and appliance management can reduce wasted electricity and lower your monthly bills. Over time, these savings can make your smart home system pay for itself.
+
+Security is another major benefit. With smart locks, motion sensors, doorbell cameras, and remote alerts, you can monitor your home from anywhere in the world. Whether you’re on vacation or just at the office, you’ll have peace of mind knowing your property is protected.
+
+At Cloudrage Technology, we design and install smart home systems that are simple to use, reliable, and tailored to your lifestyle. Whether you’re starting small or going all-in, we make it easy to take the first step toward a home that works for you.
+
+Content
+If Assignment 5 publishable content is provided later, feature it in the Home and Blog pages. If not, also include a secondary post: “5 Ways Smart Security Protects Your Family” — covering motion sensors, real-time alerts, and remote access control.
+
+Branding
+Apply the exact palette above in Tailwind config.
+
+Include SVG/PNG version of the combination logo in navbar and footer.
+
+All copy in the brand tone specified.
+
+SEO & Accessibility
+Meta title/description, Open Graph tags, sitemap, robots.txt.
+
+Semantic HTML, alt text, aria labels, and strong contrast ratios.
+
+Mobile-first performance optimization.
+
+Pages & Routing
+/ — Homepage
+
+/about — About page
+
+/services — Services page
+
+/blog — Blog index with starter post above
+
+/contact — Contact form with validation
+
